@@ -1,4 +1,4 @@
-Boarding Finder App
+#Boarding Finder App
 
 The Boarding Finder App is a mobile application planned to help students and working professionals find and manage accommodations. The app aims to provide an intuitive interface for browsing properties, applying search filters, and viewing details such as location, price, and amenities.
 
